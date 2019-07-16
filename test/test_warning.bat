@@ -1,0 +1,2 @@
+cd ../
+call email.bat "eyJ0eXBlIjogIndhcm5pbmciLCAiZm9yZWNhc3REYXlzIjogNjAsICJyb2lWYWx1ZSI6IDQuODQ0NjE2Mjk5ODAwNjkxLCAicmVwb3J0TG9jYXRpb24iOiAiLi90ZXN0L2dyYXBoLnBuZyJ9" warning

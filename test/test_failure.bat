@@ -1,0 +1,2 @@
+cd ../
+call email.bat "eyJ0eXBlIjogImZhaWx1cmUiLCAicm9pVmFsdWUiOiA0Ljg0NDYxNjI5OTgwMDY5MSwgInJlcG9ydExvY2F0aW9uIjogIi4vdGVzdC9ncmFwaC5wbmcifQ==" failure
